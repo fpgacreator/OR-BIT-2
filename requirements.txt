@@ -1,0 +1,9 @@
+requests
+numpy
+scipy
+astropy
+matplotlib
+polars
+lightkurve
+pandas
+opencv-python
